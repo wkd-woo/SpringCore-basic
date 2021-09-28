@@ -23,4 +23,3 @@ public class BeanDefinitionTest {
         }
     }
 }
-0
